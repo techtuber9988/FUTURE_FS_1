@@ -6,6 +6,11 @@
 This is a **modern, dark-themed personal portfolio website** built to showcase my skills, projects, and experience as a web developer.  
 The portfolio focuses on **clean UI, smooth animations, and modern interaction effects** to deliver a professional and engaging user experience.
 
+
+
+https://github.com/user-attachments/assets/b86cf410-b77b-4b34-b48c-41e2df4136eb
+
+
 ---
 
 ## ✨ Key Highlights
